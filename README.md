@@ -26,9 +26,13 @@ O objetivo do projeto é facilitar tarefas repetitivas e aplicar conceitos de **
 
 ## 📥 Download
 
-Você pode baixar a versão executável do aplicativo diretamente na seção **Releases** deste repositório.
+Para baixar e instalar o **Criador de Pastas**, acesse a versão mais recente do projeto:
 
-**Arquivo:** `criador-de-pastas.exe`
+👉 **[Baixar Criador de Pastas v1.0.0](#)**
+
+Na página da versão, baixe o arquivo **`criador_pastas.exe`** e execute no Windows.
+
+> Não é necessário ter o Python instalado para utilizar o aplicativo.
 
 ## 📸 Imagem do aplicativo
 
